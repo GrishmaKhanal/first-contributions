@@ -275,6 +275,7 @@
 - Andre-Ribera
 - [Khushboo Jain @ DevSoc]
 - Khadija Kamran
+- [Grishma Raj Khanal](https://github.com/grishmakhanal)
 - [Riley Bruce](https://github.com/Riley94)
 - [Akshat Gosain @ DevSoc](https://github.com/akshat-gosain)
 - [Siddhant Chauhan](https://github.com/siddhant-0707)
@@ -1590,4 +1591,5 @@
 - [Michal Gagos](https://github.com/lizard123137)
 - [Vivek Srivastava](https://github.com/vivekfe)
 - [BuddhaHeadDev](https://github.com/BuddhaHeadDev)
+- [Kevin](https://github.com/KevinIsCool79)
 <!-- prettier-ignore-end -->
